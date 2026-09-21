@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'thuy-test-project',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'cmuas2bqj000401ud3du6a8jp',
+      url: 'https://commercetool-custom-app-git-main-thuy-c5ea.vercel.app/',
     },
   },
   oAuthScopes: {
