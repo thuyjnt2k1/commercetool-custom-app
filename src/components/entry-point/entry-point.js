@@ -26,12 +26,12 @@ export const ApplicationStarter = () => (
         <Redirect
           exact={true}
           from="/:projectKey"
-          to="/:projectKey/examples-starter"
+          to="/:projectKey/starter-cfcb21"
         />
       )
     }
     <Route
-      path="/:projectKey/examples-starter"
+      path="/:projectKey/starter-cfcb21"
       component={AsyncApplicationRoutes}
     />
     {/* Catch-all route */}
