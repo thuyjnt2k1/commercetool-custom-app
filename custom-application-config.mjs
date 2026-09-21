@@ -13,7 +13,12 @@ const config = {
     },
     production: {
       applicationId: 'cmuas2bqj000401ud3du6a8jp',
-      url: 'https://commercetool-custom-app-git-main-thuy-c5ea.vercel.app/',
+      url: 'https://commercetool-custom-app.vercel.app/',
+    },
+  },
+  headers: {
+    csp: {
+      'connect-src': ['https://commercetool-custom-app.vercel.app/'],
     },
   },
   oAuthScopes: {
