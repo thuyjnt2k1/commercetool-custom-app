@@ -1,0 +1,16 @@
+query FetchCustomerDetails($id: String!) {
+  customer(id: $id) {
+    id
+    version
+    email
+    firstName
+    lastName
+    companyName
+    custom {
+      customFieldsRaw {
+        name
+        value
+      }
+    }
+  }
+}

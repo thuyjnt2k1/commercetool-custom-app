@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": {
+    "commercetools-checkout": {
+      "source": "commercetools/commercetools-ai-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/commercetools-checkout/SKILL.md",
+      "computedHash": "4d975b9757a257988c355f0e2ca26e99822be0eea53c201443479b3cc7e3aef8"
+    },
+    "commercetools-commerce-patterns": {
+      "source": "commercetools/commercetools-ai-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/commercetools-commerce-patterns/SKILL.md",
+      "computedHash": "b07eb9decccfcb458a20e668f8b1366824dc65e4d7a5c5cbd2676aa90be1f5b5"
+    },
+    "commercetools-connect": {
+      "source": "commercetools/commercetools-ai-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/commercetools-connect/SKILL.md",
+      "computedHash": "24a19f2531ea9b82d3408d1c684c83f1be70682113211427ebe0cdbbff64878d"
+    },
+    "commercetools-integrations": {
+      "source": "commercetools/commercetools-ai-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/commercetools-integrations/SKILL.md",
+      "computedHash": "49dc3830470c2a8d64742bec81e6d43a9d47ada867fda83f33eed45ee0cdf7f0"
+    },
+    "commercetools-platform": {
+      "source": "commercetools/commercetools-ai-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/commercetools-platform/SKILL.md",
+      "computedHash": "cbbbf937ddcea9390dfb70ce5af1806c41a6f514e1712ad4049e233093953a5e"
+    },
+    "commercetools-scaffold-anthropic-agent": {
+      "source": "commercetools/commercetools-ai-plugins",
+      "sourceType": "github",
+      "skillPath": "labs/skills/commercetools-scaffold-anthropic-agent/SKILL.md",
+      "computedHash": "f4d92093c257228f9a130e0123463a620b10b728d325d327f2d3fafed4ba36ed"
+    },
+    "commercetools-spec-driven-development": {
+      "source": "commercetools/commercetools-ai-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/commercetools-spec-driven-development/SKILL.md",
+      "computedHash": "e47afa5382132f7524b505af6622764580935be4e35f6c79bcf375975797213f"
+    },
+    "commercetools-storefront": {
+      "source": "commercetools/commercetools-ai-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/commercetools-storefront/SKILL.md",
+      "computedHash": "782340d6b899c03d1df5aaad8c35967a7593347db99a240ba45a60b487df2611"
+    }
+  }
+}
